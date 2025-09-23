@@ -6,6 +6,7 @@ return {
         ["html"] = { "prettierd" },
         ["css"] = { "prettierd" },
         ["json"] = { "biome" },
+        ["toml"] = { "tombi" },
       },
     },
   },
